@@ -30,8 +30,7 @@
   "Batch Scale By Factor"                   ;menu label
   "Scale multiple images by given factor."  ;description
   "Jeffery Martin"                          ;author
-  "Copyright 2014\
-   Fluffy White Puppy Software"             ;copyright notice
+  "CC0: All copyright waived."              ;copyright notice
   "2014-01-06"                              ;date created
   ""                                        ;image type that the script works on
   SF-STRING "fileglob" "/tmp/photos/image-*.jpg"
