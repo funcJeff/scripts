@@ -1,3 +1,6 @@
+; This script is a GIMP plugin written in Scheme.
+; It does batch scaling of image files.
+
 (define (script-fu-scale-by-factor fileglob factor)
   (let*
     (
