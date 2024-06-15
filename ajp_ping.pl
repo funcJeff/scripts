@@ -1,5 +1,8 @@
 #!/usr/bin/perl -w
 
+# This script is ping for the Apache Tomcat AJP connector.
+# Point this script at a Tomcat instance to see if its AJP connector is working.
+
 use warnings;
 use strict;
 
